@@ -1,0 +1,22 @@
+{
+    "users": [
+    {
+        "codigo": 1,
+        "nombre": "Bladimir",
+        "apellido": "Andrade",
+        "nota": [5,9]
+    },
+    {
+        "codigo": 2,
+        "nombre": "Liliana",
+        "apellido": "Lozano",
+        "nota": [7,8,9]
+    },
+    {
+        "codigo": 3,
+        "nombre": "Erika",
+        "apellido": "Lozano",
+        "nota": [22,56,78]
+        }
+    ]
+}
